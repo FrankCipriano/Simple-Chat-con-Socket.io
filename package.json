@@ -1,0 +1,16 @@
+{
+  "name": "super-chat-con-socket.io",
+  "version": "1.0.0",
+  "description": "Un chat simple con express.js, node.js y socket.io",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "FrankDev",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.3.1"
+  }
+}
